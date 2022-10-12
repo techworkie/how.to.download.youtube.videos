@@ -1,7 +1,7 @@
 # How to Download Youtube Videos?
 
 
-[![how to download youtube videos](redd.png)](https://github.com/techworkie/how.to.download.youtube.videos)
+[![how to download youtube videos](redd.png)](https://icncomputer.com/how-to-download-youtube-videos-on-pc-vlc/)
 
 
 YouTube has billions of videos available for streaming, but sometimes, you might want to download some of them for offline viewing. 
